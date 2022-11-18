@@ -1,0 +1,136 @@
+
+.Header__container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 60px;
+    background-color: #fff;
+    box-shadow: 0px 5px 8px -9px;
+}
+
+
+
+
+ .Header__LeftNav{
+    display: flex;
+    text-align: center;
+    
+} 
+.Header__CenterNav{
+    display: flex;
+    
+}
+
+
+
+
+.Header__RightNavInput{
+    margin: 12px;
+}
+.Header__RightNavInput > input{
+    width: 120%;
+    height: 30px;
+    border-radius: 9px ;
+    border: 1px solid grey;
+}
+
+
+.Header__LeftNav> img{
+    margin-left: 8%;
+    margin-top: 5%;
+    height: 40px;
+    border-radius: 50%;
+    background-color: #fff;
+}
+
+
+.Header__LeftNav> input{
+    background-color: transparent;
+    outline-width: 0;
+
+}
+
+
+.header_center{
+    display: flex;
+    color: gray;
+    align-items: center;
+    background-color: #fff;
+}
+
+.alliconcenter{
+    padding-left: 80px;
+    cursor: pointer;
+    background-color: #fff;
+    
+}
+/* .alliconcenter :hover{
+    background-color: rgb(233, 233, 233);
+    color: #0f7deb;
+    border-bottom: 3px solid #0f7deb;
+
+} */
+
+.Header__rightFindFriend{
+    border-radius: 9px;
+}
+
+
+.header_navigationbar_icons_for_white_backgrount{
+    color:  grey;
+}
+
+.header_navigationbar_icons_for_white_backgrount :active{
+    background-color: rgb(233, 233, 233);
+    color: #0f7deb;
+    border-bottom: 3px solid #0f7deb;
+}
+
+
+.header__right__icons{
+    background-color:#fff ;
+    display: flex;
+    justify-content: space-between;
+}
+.header__right__icons> button{
+    text-align: center;
+    margin-left: 17px;
+    text-align: end;
+    border-radius: 25px;
+    cursor: pointer;
+    background-color:#fff ;
+    
+}
+
+header__right__icons > button{
+    margin: 2px;
+    cursor: pointer;
+}
+/* .header__right__icons> button :hover{
+    color: #0f7deb;
+} */
+
+.headerRighticons{
+    border-radius: 13px;
+    background-color: #ced6d8;
+    padding: 2px;
+    margin-bottom: 2px;
+    border: none;
+    cursor: pointer;
+    
+}
+
+.Header__rightNav{
+    display: flex;
+    text-align: center;
+    margin-top:10px ;
+    margin-bottom: 10px;
+    margin: auto;
+    margin-left: 10px;
+    border-radius: 9px;
+    background-color: #fff;
+    
+}
+
+
+

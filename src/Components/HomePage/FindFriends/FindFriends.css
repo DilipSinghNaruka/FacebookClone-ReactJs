@@ -1,0 +1,122 @@
+.FindFriend__container{
+    display: flex;
+}
+.FindFriend__leftSB__Top{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.FindFriend__leftSB__Top > span{
+    font-size: 1.5rem;
+    margin-left: 1rem;
+    margin-top: 0.4rem;
+    font-weight: 600;
+}
+
+.FindFriend__leftSB{
+    display: flex;
+    height: 100vh;
+    width: 23vw;
+}
+
+.FindFriend__rightSB{
+    width: 77vw;
+}
+.FindFriend__leftSB{
+    display: flex;
+    flex-direction: column;
+    
+}
+.FindFriend__leftSB__top__icons{
+    margin-top: 0.5rem;
+    background-color: rgb(201, 197, 197);
+    border-radius: 20px;
+    padding-top: 0.2rem;
+    margin-right: 1rem;
+    text-decoration: none;
+}
+.FindFriend__leftSB__bottom__leftSD{
+    display: flex;
+    
+}
+
+.FindFriend__leftSB__bottom{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0.5rem;
+    margin: 0.5rem ;
+}
+
+
+.FindFriend__leftSB__bottom__text{
+    margin:2px 0px 0px 20px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    cursor: pointer;
+    
+}
+
+.FindFriend__leftSB__bottom__icons1{
+    background-color: rgba(231, 220, 220, 0.678);
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+
+.FindFriend__rightSB__container{
+    display: grid;
+   grid-template-columns: repeat(4, 1fr);
+    padding-top: 10px;
+    margin: 5px;
+    padding: 20px;
+}
+
+.FindFriend__rightSB__prop__container{
+    width: 18vw;
+    height: 60vh;
+    border: 2px solid grey;
+    border-radius: 9px;
+    box-shadow: 0px 5px 8px -9px;
+    margin: 2px;
+}
+.FindFriend__rightSB__prop__image > img{
+    width: 100%;
+    height: 35vh;
+}
+
+.FindFriend__rightSB__bottom{
+    height: 20vh;
+    width: 16vw;
+    display: flex;
+    flex-direction: column;
+    margin: 10px 10px 0px 9px ;
+}
+
+.FindFriend__rightSB__prop__btn1 > button{
+    background-color: #1B74E4;
+    color: #fff;
+    font-weight: 600;
+    font-size: 1REM;
+    height: 7vh;
+    width: 96%;
+    border: none;
+    border-radius: 9px;
+    margin-top:5px ;
+}
+.FindFriend__rightSB__prop__btn2 > button{
+    background-color: #E4E6EB;
+    color: #050505;
+    font-weight: 700;
+    font-size: 1REM;
+    height: 7vh;
+    width: 96%;
+    border: none;
+    border-radius: 9px;
+    margin-top:5px ;
+}
+
+.FindFriend__rightSB__prop__title{
+    font-size: larger;
+    font-weight: 700;
+    margin-left: 5px;
+}

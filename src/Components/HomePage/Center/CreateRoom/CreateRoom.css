@@ -1,0 +1,28 @@
+.CreateRoom__container{
+    display: flex;
+    justify-content:flex-start;
+    background-color: #fff;
+    border-radius: 15px;
+    width: 90%;
+    margin: 2rem;
+}
+
+.createRoom__iconAndText{
+    padding: 10px;
+  border-radius: 20px ;
+  background-color: #fff;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    margin:18px ;
+}
+.createRoom__iconAndText > span{
+    margin-left: 10px;
+    color: blue;
+    font-weight: 600;
+}
+.createRoom__icon{
+    margin: 5px;
+    margin-top: 18px;
+}

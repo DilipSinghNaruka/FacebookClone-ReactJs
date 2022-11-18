@@ -1,0 +1,107 @@
+/* *{
+     background-color: #f0f2f5;
+
+} */
+.Signup__fullPage{
+    background-color: #f0f2f5;
+    
+}
+.Signup__forSmallDiv{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: auto;
+    width: 34%;
+
+}
+.Signup__Container{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 10px rgb(194, 185, 185);
+    background-color: #fff;
+    border-radius: 9px;
+
+}
+.Signup__FBLogo > img{
+    height: 100px;
+    margin-left: 20%;
+}
+.Signup__top{
+    text-align: center;
+}
+.Signup__top > h5{
+    margin-top: -19px;
+    margin-bottom: 6px;
+}
+.Signup__inputes > input{
+    border-color: #bdc7d8;
+    height: 35px;
+    border-radius: 9% ;
+
+}
+.Signup__first2input{
+    width: 45%;
+    margin: 7px;
+}
+.Signup__last2input{
+    width: 95%;
+    margin: 8px;
+}
+.Signup__dob{
+    display: flex;
+    flex-direction: column;
+    margin: 7px;
+}
+.Signup__birthvalue{
+    
+    width: 31%;
+    margin-left: 10px;
+    height: 30px;
+}
+.Singup__gender{
+    display: flex;
+    flex-direction: column;
+}
+.Signup__genderfull{
+    width: 97%;
+    margin-left: 10px;
+    height: 40px;
+    
+}
+.Signup__genderRadioBtn{
+    display: flex;
+}
+.Signup__genderRadioBtnpersonal{
+    border: 1px solid grey;
+    width: 31%;
+    margin-left: 10px;
+    height: 30px;
+}
+
+.Signup__texts{
+    font-size: 10px;
+    margin: 7px;
+}
+.Signup__signupBtn{
+    background-color: #42b72a;
+    border: none;
+    border-radius: 5px;
+    width: 200px;
+    height: 45px;
+    margin-top: 15px;
+    margin-left: 120px;
+    color: #fff;
+    padding: 0px 16px;
+    font-size: large;
+    cursor: pointer;
+
+}
+.Signup__anchor > a {
+    text-align: center;
+    margin:20px 20px 40px 0px;
+    text-decoration: none;
+    color: blue;
+    display: flex;
+   justify-content: center;
+
+}

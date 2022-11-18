@@ -1,0 +1,5 @@
+.Group__Container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(187, 185, 185, 0.514);
+}

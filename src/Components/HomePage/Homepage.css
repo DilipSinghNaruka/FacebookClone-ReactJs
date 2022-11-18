@@ -1,0 +1,5 @@
+.Homapage__Body{
+    background-color: #f1f2f7;
+    display: flex;
+    justify-content: space-between;
+}

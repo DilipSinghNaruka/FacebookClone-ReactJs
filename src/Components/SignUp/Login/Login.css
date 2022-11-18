@@ -1,0 +1,92 @@
+.Container{
+    background-color: #f0f2f5;
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+
+}
+.Login__LeftDiv{
+    /* margin: auto; */
+    margin-top: 15%;
+    margin-left:15% ;
+}
+
+.Login__forImage{
+    
+    height: 100px;
+    width: 350px;
+    margin-left: -35px;
+  
+}
+.Login__forText{
+    color: grey;
+
+}
+.Login__RightDiv{
+    margin: auto;
+    background-color: #fff;
+    border-radius: 9px;
+    width: 30%;
+    height: 52%;
+    box-shadow: 0 0 10px rgb(194, 185, 185);
+    
+
+}
+.Login__form{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 2%;
+    margin-top: 15px;
+
+
+}
+.Login__RightInput{
+    border: 2px solid rgb(197, 178, 178);
+    border-radius: 5%;
+    width: 345px;
+    height: 40px;
+    padding: 1%;
+
+}
+.Login__LoginBtn{
+    background-color: #1877f2;
+    width: 355px;
+    height: 50px;
+    padding: 0px 16px;
+    font-size: large;
+    cursor: pointer;
+    color: #fff;
+    border: none;
+    border-radius: 9px;
+    margin-top: 15px;
+}
+
+.Login__input > input{
+    margin-bottom: 10px;
+}
+.Login__ForgateBtn {
+    margin: 10px;
+    /* padding: 20px; */
+    
+}
+.Login__ForgateBtn > a{
+    text-decoration: none;
+   color: #1877f2;
+   
+}
+.Login__hr{
+    width: 90%;
+}
+.Login__createBtn{
+    background-color: #42b72a;
+    border: none;
+    border-radius: 9px;
+    width: 200px;
+    height: 45px;
+    margin-top: 15px;
+    color: #fff;
+    font-size: large;
+    cursor: pointer;
+    
+}

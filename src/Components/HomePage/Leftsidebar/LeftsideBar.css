@@ -1,0 +1,16 @@
+.LeftsideBar__innerDiv{
+    display: flex;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.LeftsideBar__title{
+    margin-left: 12px;
+    margin-top: 1.5vh;
+}
+.LeftsideBar__container{
+    display: flex;
+    width: 15rem;
+    
+}

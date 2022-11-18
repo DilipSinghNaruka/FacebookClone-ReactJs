@@ -1,0 +1,27 @@
+.RightSB__container{
+    width: 15rem;
+    height: 90vh;
+    overflow: auto;
+
+}
+.RightSB__middle_right{
+    display: flex;
+    padding-right: 10px;
+}
+.RightSB__middle{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10px;
+    
+}
+.RightSB__lastBottom__iconText{
+    display: flex;
+}
+.RightSB__lastBottom__iconText > span{
+    margin: 0.5rem;
+}
+.RightSB__lastBottom >span{
+    font-size: medium;
+    font-weight: 600;
+    margin-bottom: 10px;
+}

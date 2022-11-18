@@ -1,0 +1,72 @@
+.RightSBGroup__container{
+    width: 30.5vw;
+}
+.RightSBGroup__container__card{
+    width: 26vw;
+    height: 65vh;
+    background-color: #fff;
+    margin: 1rem 1rem 1rem 1rem;
+    border-radius: 1rem;
+}
+
+.RightSBGroup__container__card__top{
+    display: flex;
+    width: 28vw;
+    margin: 1.5rem;
+    /* margin-top: 2rem; */
+}
+.RightSBGroup__container__card__top__left__top{
+    color: black;
+    font-weight: 600;
+    padding-bottom: 0.5rem;
+    margin-top: 1rem;
+}
+.RightSBGroup__container__card__top__right{
+    color: #1874e4;
+    font-weight: 600;
+    margin-top: 1rem;
+}
+.RightSBGroup__container__card__innerDiv{
+    display: flex;
+    flex-direction: column;
+   /* background-color: red; */
+   /* border: 2px solid red; */
+    box-shadow: 8px 8px 8px -8px;
+    width: 48vh;
+    margin-left: 0.8rem;
+}
+
+.RightSBGroup__container__card__innerDiv__image > img{
+    width: 22vw;
+    margin:8px;
+}
+
+.RightSBGroup__container__card__innerDiv__upperText{
+    color: black;
+    font-size: larger;
+    font-weight: 600;
+    margin: -9px 0px 0px 10px ; 
+}
+.RightSBGroup__container__card__innerDiv__bottomText{
+    margin: 0px 0px 0px 10px ; 
+
+}
+
+.RightSBGroup__container__card__innerDiv__JoinBtn{
+    margin: 3rem 0px 0.8rem 0.8rem ;
+    width: 22vw;
+    padding: 1.3vh;
+    background-color: #1874e4;
+    color: #fff;
+    font-size: large;
+    font-weight: 600;
+    border: none;
+    border-radius: 0.7rem;
+}
+
+
+
+/* .RightSBGroup__container__card__innerDiv{
+    border: red;
+    box-shadow: 0px 5px 8px -9px;
+} */

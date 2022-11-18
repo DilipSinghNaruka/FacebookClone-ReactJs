@@ -1,0 +1,11 @@
+
+
+.CenterSBGroup__container{
+    display: flex;
+    flex-direction: column;
+    width: 44vw;
+}
+
+.CenterSBGroup__topText{
+    margin: 2rem 2.5rem 0rem 2rem;
+}
